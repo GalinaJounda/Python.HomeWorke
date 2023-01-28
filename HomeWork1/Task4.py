@@ -16,5 +16,5 @@ elif quart == 3:
 elif quart == 4:
     print("x > 0, y < 0")
 else:
-    print("Error")
+    print("Нет такой четвети")
 
